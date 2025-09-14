@@ -8,10 +8,10 @@ A web platform designed to raise awareness and connect donors with recipients fo
 
 🫀 Organ Donation: Sign up for organ donation and learn about eligibility
 
-📍 Location-based Search: Find donation opportunities near you. *(currently woorking to develop this feature)
+📍 Location-based Search: Find donation opportunities near you. *(currently working to develop this feature)
 
-🔔 Reminders: Get notified when you are eligible to donate again. *(currently woorking to develop this feature)
+🔔 Reminders: Get notified when you are eligible to donate again. *(currently working to develop this feature)
 
-📊 Awareness Hub: Learn statistics, benefits, and success stories. *(currently woorking to develop this feature)
+📊 Awareness Hub: Learn statistics, benefits, and success stories. *(currently working to develop this feature)
 
 NOTE: This is just the frontend part of the project. Currently working on the backend.
